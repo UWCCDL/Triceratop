@@ -2,4 +2,4 @@
 Tina's first year project, an addition to Cher's project "ProcVsDecl" in following aspects
 
 * structural connectivity using diffusion imaging
-* uses the full HCP data that have complete dMRI and Gambling task data (n=1034)
+* uses the full HCP data that have complete dMRI and Gambling task data (n=997)
