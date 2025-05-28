@@ -1,0 +1,5224 @@
+{
+  "uniform_responses": [
+    "599671",
+    "580347",
+    "162935",
+    "283543",
+    "180129",
+    "971160",
+    "927359",
+    "126628",
+    "993675",
+    "330324",
+    "886674",
+    "100610",
+    "182739",
+    "816653",
+    "616645",
+    "118831",
+    "156536",
+    "124624",
+    "803240",
+    "578158",
+    "325129",
+    "105216",
+    "147030",
+    "114621",
+    "531536",
+    "723141",
+    "134324",
+    "499566",
+    "107422",
+    "212015",
+    "116423",
+    "198855",
+    "180937"
+  ],
+  "single_run": [
+    "462139",
+    "191437",
+    "872158",
+    "937160"
+  ],
+  "processing_errors": [],
+  "total_excluded": 37,
+  "exclusion_criteria": {
+    "uniform_response_threshold": 0.8,
+    "rt_min_threshold_ms": 200,
+    "rt_max_threshold_ms": 10000,
+    "minimum_runs_required": 2,
+    "note": "RT outliers are logged but not used for exclusion"
+  },
+  "rt_outlier_stats": {
+    "109830": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "113821": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "872562": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "492754": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "342129": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "156334": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "568963": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "419239": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "205826": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "894774": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "200008": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "972566": {
+      "total_trials": 63,
+      "rt_outlier_count": 9,
+      "rt_outlier_percentage": 14.285714285714285
+    },
+    "179346": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "350330": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "849971": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "995174": {
+      "total_trials": 64,
+      "rt_outlier_count": 10,
+      "rt_outlier_percentage": 15.625
+    },
+    "664757": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "116726": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "788674": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "583858": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "880157": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "770352": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "827052": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "209228": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "130114": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "117122": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "415837": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "149842": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "329844": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "395251": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "158540": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "933253": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "814548": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "178748": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "760551": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "816653": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "118932": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "175742": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "917558": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "105216": {
+      "total_trials": 64,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 10.9375
+    },
+    "138231": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "169545": {
+      "total_trials": 64,
+      "rt_outlier_count": 12,
+      "rt_outlier_percentage": 18.75
+    },
+    "156435": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "615441": {
+      "total_trials": 63,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.349206349206349
+    },
+    "129937": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "561949": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "927359": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "153732": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "168341": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "139435": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "693764": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "146432": {
+      "total_trials": 61,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "146937": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "214524": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "366446": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "123824": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "123521": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "195647": {
+      "total_trials": 61,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "150726": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "987983": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "172635": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "867468": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "178243": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "135730": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "257542": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "856968": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "209127": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "634748": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "353740": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "731140": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "192035": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "286347": {
+      "total_trials": 64,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 10.9375
+    },
+    "191841": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "581349": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "346945": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "159441": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "202719": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "901442": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "445543": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "361234": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "119833": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "910241": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "182032": {
+      "total_trials": 61,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 11.475409836065573
+    },
+    "138534": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "314225": {
+      "total_trials": 64,
+      "rt_outlier_count": 10,
+      "rt_outlier_percentage": 15.625
+    },
+    "209329": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "368753": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "316835": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "329440": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "110613": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "609143": {
+      "total_trials": 61,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.918032786885246
+    },
+    "767464": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "680250": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "150928": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "194746": {
+      "total_trials": 63,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.523809523809524
+    },
+    "856766": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "299154": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "172130": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "529953": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "303119": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "461743": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "339847": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "943862": {
+      "total_trials": 64,
+      "rt_outlier_count": 13,
+      "rt_outlier_percentage": 20.3125
+    },
+    "735148": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "151627": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "214221": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "195849": {
+      "total_trials": 63,
+      "rt_outlier_count": 15,
+      "rt_outlier_percentage": 23.809523809523807
+    },
+    "200109": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "765056": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "112920": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "888678": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "622236": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "104416": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "162733": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "516742": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "111716": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "123420": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "660951": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "123925": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "589567": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "107725": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "869472": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "159340": {
+      "total_trials": 64,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.375
+    },
+    "467351": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "566454": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "751550": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "541640": {
+      "total_trials": 64,
+      "rt_outlier_count": 18,
+      "rt_outlier_percentage": 28.125
+    },
+    "355239": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "904044": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "257946": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "922854": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "481042": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "133827": {
+      "total_trials": 63,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.349206349206349
+    },
+    "270332": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "969476": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "958976": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "169444": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "571144": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "144226": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "160123": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "146836": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "146533": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "168240": {
+      "total_trials": 63,
+      "rt_outlier_count": 9,
+      "rt_outlier_percentage": 14.285714285714285
+    },
+    "298051": {
+      "total_trials": 62,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.838709677419355
+    },
+    "541943": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "156637": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "911849": {
+      "total_trials": 55,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.8181818181818181
+    },
+    "169747": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "163331": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "978578": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "105014": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "382242": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "175540": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "919966": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "135932": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "211821": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "224022": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "120515": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "828862": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "166438": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "139637": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "102008": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "189349": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "748258": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "173738": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "195445": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "123723": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "524135": {
+      "total_trials": 63,
+      "rt_outlier_count": 12,
+      "rt_outlier_percentage": 19.047619047619047
+    },
+    "146735": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "173233": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "715647": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "214726": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "162935": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "479762": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "188448": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "118730": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "832651": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "744553": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "185947": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "185442": {
+      "total_trials": 64,
+      "rt_outlier_count": 13,
+      "rt_outlier_percentage": 20.3125
+    },
+    "196851": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "994273": {
+      "total_trials": 61,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "130417": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "150524": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "212116": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "599469": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "665254": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "141826": {
+      "total_trials": 63,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.936507936507936
+    },
+    "114116": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "779370": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "378857": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "136227": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "792867": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "788876": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "878776": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "111211": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "115219": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "116524": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "686969": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "397861": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "555348": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "826454": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "316633": {
+      "total_trials": 63,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.523809523809524
+    },
+    "167036": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "561444": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "245333": {
+      "total_trials": 63,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.761904761904762
+    },
+    "137128": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "702133": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "859671": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "130316": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "395958": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "126325": {
+      "total_trials": 64,
+      "rt_outlier_count": 9,
+      "rt_outlier_percentage": 14.0625
+    },
+    "111514": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "885975": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "213017": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "598568": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "289555": {
+      "total_trials": 59,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "115017": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "133625": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "567052": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "185846": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "283543": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "188549": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "167238": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "473952": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "147030": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "129634": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "105115": {
+      "total_trials": 64,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.375
+    },
+    "172433": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "114318": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "395756": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "351938": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "212318": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "917255": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "898176": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "687163": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "151324": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "131217": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "120414": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "107422": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "153934": {
+      "total_trials": 64,
+      "rt_outlier_count": 16,
+      "rt_outlier_percentage": 25.0
+    },
+    "380036": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "102109": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "116221": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "139839": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "311320": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "205725": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "304020": {
+      "total_trials": 63,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.761904761904762
+    },
+    "192237": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "197550": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "169949": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "130619": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "248238": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "789373": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "110411": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "734045": {
+      "total_trials": 63,
+      "rt_outlier_count": 24,
+      "rt_outlier_percentage": 38.095238095238095
+    },
+    "908860": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "872764": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "782561": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "368551": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "154229": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "601127": {
+      "total_trials": 64,
+      "rt_outlier_count": 21,
+      "rt_outlier_percentage": 32.8125
+    },
+    "996782": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "172332": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "786569": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "117324": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "570243": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "654350": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "149741": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "212419": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "114419": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "236130": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "268850": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "173536": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "877168": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "151425": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "174841": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "947668": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "142828": {
+      "total_trials": 62,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.838709677419355
+    },
+    "894067": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "204218": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "810439": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "171633": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "837964": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "101309": {
+      "total_trials": 64,
+      "rt_outlier_count": 8,
+      "rt_outlier_percentage": 12.5
+    },
+    "617748": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "250427": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "132017": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "870861": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "145834": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "580751": {
+      "total_trials": 63,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.349206349206349
+    },
+    "759869": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "161731": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "201414": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "626648": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "177140": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "475855": {
+      "total_trials": 62,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.225806451612903
+    },
+    "573249": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "318637": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "200210": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "390645": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "352738": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "520228": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "465852": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "100408": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "176744": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "763557": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "211619": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "167743": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "358144": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "185038": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "818455": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "871964": {
+      "total_trials": 63,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 11.11111111111111
+    },
+    "835657": {
+      "total_trials": 63,
+      "rt_outlier_count": 11,
+      "rt_outlier_percentage": 17.46031746031746
+    },
+    "108323": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "263436": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "199251": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "386250": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "178950": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "135528": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "165436": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "406836": {
+      "total_trials": 64,
+      "rt_outlier_count": 10,
+      "rt_outlier_percentage": 15.625
+    },
+    "137633": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "803240": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "154936": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "101006": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "192843": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "285345": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "206525": {
+      "total_trials": 64,
+      "rt_outlier_count": 13,
+      "rt_outlier_percentage": 20.3125
+    },
+    "305830": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "158338": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "134627": {
+      "total_trials": 64,
+      "rt_outlier_count": 8,
+      "rt_outlier_percentage": 12.5
+    },
+    "926862": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "198855": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "127731": {
+      "total_trials": 60,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "912447": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "802844": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "201515": {
+      "total_trials": 63,
+      "rt_outlier_count": 11,
+      "rt_outlier_percentage": 17.46031746031746
+    },
+    "540436": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "987074": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "161630": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "723141": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "580650": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "688569": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "884064": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "200311": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "150019": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "841349": {
+      "total_trials": 64,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.375
+    },
+    "198350": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "114621": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "130821": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "456346": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "136732": {
+      "total_trials": 64,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.375
+    },
+    "158136": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "134829": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "756055": {
+      "total_trials": 63,
+      "rt_outlier_count": 8,
+      "rt_outlier_percentage": 12.698412698412698
+    },
+    "673455": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "558657": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "597869": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "211417": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "204319": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "620434": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "565452": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "837560": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "187143": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "559053": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "165638": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "103818": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "159239": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "886674": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "180735": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "825654": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "647858": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "131924": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "115724": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "196144": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "422632": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "809252": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "153025": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "392750": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "181131": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "186848": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "513736": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "246133": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "585256": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "127630": {
+      "total_trials": 62,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.225806451612903
+    },
+    "198451": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "683256": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "896879": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "204016": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "495255": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "108222": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "182840": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "274542": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "211316": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "185139": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "346137": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "406432": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "523032": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "177645": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "614439": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "101107": {
+      "total_trials": 63,
+      "rt_outlier_count": 10,
+      "rt_outlier_percentage": 15.873015873015872
+    },
+    "587664": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "154532": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "118225": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "191033": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "124624": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "108121": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "555651": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "284646": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "962058": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "611938": {
+      "total_trials": 63,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 11.11111111111111
+    },
+    "171330": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "164030": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "127933": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "180836": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "199958": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "180533": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "307127": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "192641": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "143224": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "137431": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "213522": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "118528": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "148436": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "140117": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "992673": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "774663": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "131722": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "672756": {
+      "total_trials": 64,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.375
+    },
+    "103414": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "547046": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "362034": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "700634": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "154734": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "206727": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "163129": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "118023": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "170934": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "124422": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "191235": {
+      "total_trials": 64,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 10.9375
+    },
+    "228434": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "578158": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "989987": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "149337": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "657659": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "134425": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "175338": {
+      "total_trials": 64,
+      "rt_outlier_count": 8,
+      "rt_outlier_percentage": 12.5
+    },
+    "181232": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "207123": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "385046": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "171431": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "844961": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "519647": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "668361": {
+      "total_trials": 64,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 10.9375
+    },
+    "887373": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "349244": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "113619": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "268749": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "128026": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "280941": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "186444": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "401422": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "901139": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "391748": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "206828": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "177342": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "510225": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "202820": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "104820": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "187345": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "512835": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "599671": {
+      "total_trials": 64,
+      "rt_outlier_count": 20,
+      "rt_outlier_percentage": 31.25
+    },
+    "729254": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "414229": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "500222": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "111009": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "604537": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "122317": {
+      "total_trials": 62,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.838709677419355
+    },
+    "119126": {
+      "total_trials": 63,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.761904761904762
+    },
+    "134324": {
+      "total_trials": 63,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.349206349206349
+    },
+    "517239": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "175439": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "387959": {
+      "total_trials": 63,
+      "rt_outlier_count": 9,
+      "rt_outlier_percentage": 14.285714285714285
+    },
+    "616645": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "361941": {
+      "total_trials": 64,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 10.9375
+    },
+    "196346": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "103515": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "865363": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "124826": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "518746": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "891667": {
+      "total_trials": 63,
+      "rt_outlier_count": 12,
+      "rt_outlier_percentage": 19.047619047619047
+    },
+    "453542": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "198653": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "833249": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "149236": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "102311": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "562446": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "125222": {
+      "total_trials": 64,
+      "rt_outlier_count": 10,
+      "rt_outlier_percentage": 15.625
+    },
+    "871762": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "211114": {
+      "total_trials": 61,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.639344262295082
+    },
+    "108020": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "899885": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "979984": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "106319": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "698168": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "127832": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "550439": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "164131": {
+      "total_trials": 63,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.349206349206349
+    },
+    "167440": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "371843": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "965367": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "143325": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "497865": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "825553": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "135225": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "180432": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "180937": {
+      "total_trials": 64,
+      "rt_outlier_count": 11,
+      "rt_outlier_percentage": 17.1875
+    },
+    "725751": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "201818": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "188751": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "397154": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "656253": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "663755": {
+      "total_trials": 64,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.375
+    },
+    "737960": {
+      "total_trials": 58,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.7241379310344827
+    },
+    "214019": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "818859": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "594156": {
+      "total_trials": 64,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 10.9375
+    },
+    "175136": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "155635": {
+      "total_trials": 63,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.761904761904762
+    },
+    "106016": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "186545": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "114823": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "176542": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "113316": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "128127": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "275645": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "140319": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "529549": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "161832": {
+      "total_trials": 63,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.761904761904762
+    },
+    "210011": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "145632": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "753150": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "901038": {
+      "total_trials": 64,
+      "rt_outlier_count": 18,
+      "rt_outlier_percentage": 28.125
+    },
+    "728454": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "206929": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "462139": {
+      "total_trials": 32,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "100610": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "394956": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "208024": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "959574": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "227533": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "412528": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "397760": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "136126": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "580044": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "588565": {
+      "total_trials": 60,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "310621": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "576255": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "239944": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "212217": {
+      "total_trials": 61,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.918032786885246
+    },
+    "113922": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "114217": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "117021": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "122822": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "804646": {
+      "total_trials": 63,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.349206349206349
+    },
+    "792766": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "378756": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "536647": {
+      "total_trials": 63,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.349206349206349
+    },
+    "179245": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "120010": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "251833": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "159946": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "192439": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "907656": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "878877": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "761957": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "148941": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "499566": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "131419": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "724446": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "932554": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "153631": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "118831": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "810843": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "231928": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "569965": {
+      "total_trials": 62,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.451612903225806
+    },
+    "530635": {
+      "total_trials": 63,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.936507936507936
+    },
+    "567759": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "196750": {
+      "total_trials": 61,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "280739": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "558960": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "156536": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "138332": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "204420": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "150625": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "188347": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "194140": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "654754": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "158843": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "771354": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "211720": {
+      "total_trials": 63,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.761904761904762
+    },
+    "173132": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "965771": {
+      "total_trials": 59,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.694915254237288
+    },
+    "151021": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "766563": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "579867": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "173839": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "800941": {
+      "total_trials": 63,
+      "rt_outlier_count": 10,
+      "rt_outlier_percentage": 15.873015873015872
+    },
+    "469961": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "705341": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "156233": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "169343": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "130518": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "749058": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "894673": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "192136": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "486759": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "120111": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "128935": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "191942": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "157437": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "341834": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "139233": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "590047": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "480141": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "256540": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "208125": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "195041": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "317332": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "671855": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "173637": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "146331": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "877269": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "168947": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "905147": {
+      "total_trials": 60,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.3333333333333335
+    },
+    "227432": {
+      "total_trials": 62,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.451612903225806
+    },
+    "194645": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "172938": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "193239": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "129331": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "376247": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "130013": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "138837": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "727553": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "137027": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "381038": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "204521": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "257845": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "157336": {
+      "total_trials": 63,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.761904761904762
+    },
+    "557857": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "183034": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "910443": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "952863": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "679770": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "148840": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "519950": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "628248": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "385450": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "627852": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "214423": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "205220": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "680957": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "680452": {
+      "total_trials": 60,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.3333333333333335
+    },
+    "545345": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "635245": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "379657": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "220721": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "237334": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "250932": {
+      "total_trials": 61,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "325129": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "320826": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "144428": {
+      "total_trials": 64,
+      "rt_outlier_count": 10,
+      "rt_outlier_percentage": 15.625
+    },
+    "198047": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "613538": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "573451": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "127226": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "165941": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "685058": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "579665": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "111413": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "151728": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "138130": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "182436": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "356948": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "424939": {
+      "total_trials": 64,
+      "rt_outlier_count": 11,
+      "rt_outlier_percentage": 17.1875
+    },
+    "211922": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "814649": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "178849": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "121719": {
+      "total_trials": 62,
+      "rt_outlier_count": 12,
+      "rt_outlier_percentage": 19.35483870967742
+    },
+    "638049": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "521331": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "176037": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "188145": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "585862": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "677968": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "204622": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "178142": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "172534": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "196952": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "153833": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "845458": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "214625": {
+      "total_trials": 60,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "151223": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "183337": {
+      "total_trials": 62,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.225806451612903
+    },
+    "757764": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "140925": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "104012": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "111312": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "208226": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "159744": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "107321": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "392447": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "133928": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "147636": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "212015": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "163836": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "182739": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "122620": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "645551": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "194443": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "126628": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "742549": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "389357": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "180129": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "121416": {
+      "total_trials": 62,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.67741935483871
+    },
+    "199352": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "825048": {
+      "total_trials": 63,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.349206349206349
+    },
+    "856463": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "187850": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "169040": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "454140": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "448347": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "120212": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "815247": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "298455": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "255639": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "792564": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "360030": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "101410": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "101915": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "121618": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "126426": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "321323": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "882161": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "615744": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "930449": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "290136": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "140824": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "160729": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "693461": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "127327": {
+      "total_trials": 64,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.375
+    },
+    "173334": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "783462": {
+      "total_trials": 64,
+      "rt_outlier_count": 15,
+      "rt_outlier_percentage": 23.4375
+    },
+    "304727": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "951457": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "165840": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "727654": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "793465": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "308129": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "143830": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "654552": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "203418": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "561242": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "185341": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "106824": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "106521": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "393247": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "194847": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "145127": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "156031": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "176239": {
+      "total_trials": 61,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.639344262295082
+    },
+    "873968": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "179548": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "531536": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "333330": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "168745": {
+      "total_trials": 63,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.761904761904762
+    },
+    "128632": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "293748": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "929464": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "715041": {
+      "total_trials": 62,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.838709677419355
+    },
+    "857263": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "151526": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "984472": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "366042": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "173435": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "202113": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "820745": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "592455": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "198249": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "861456": {
+      "total_trials": 60,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "116423": {
+      "total_trials": 63,
+      "rt_outlier_count": 8,
+      "rt_outlier_percentage": 12.698412698412698
+    },
+    "923755": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "208327": {
+      "total_trials": 64,
+      "rt_outlier_count": 12,
+      "rt_outlier_percentage": 18.75
+    },
+    "119732": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "692964": {
+      "total_trials": 64,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.375
+    },
+    "163432": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "436845": {
+      "total_trials": 57,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "147737": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "178647": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "713239": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "889579": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "330324": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "161327": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "645450": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "580347": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "677766": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "599065": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "572045": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "174437": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "199453": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "103111": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "300719": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "110007": {
+      "total_trials": 64,
+      "rt_outlier_count": 8,
+      "rt_outlier_percentage": 12.5
+    },
+    "206222": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "173940": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "701535": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "102715": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "162228": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "207426": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "513130": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "991267": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "193845": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "190031": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "468050": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "849264": {
+      "total_trials": 61,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "122418": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "667056": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "129028": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "238033": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "148133": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "902242": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "166640": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "694362": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "748662": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "773257": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "131823": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "656657": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "154835": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "192540": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "223929": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "549757": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "769064": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "144832": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "141119": {
+      "total_trials": 64,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.375
+    },
+    "155231": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "309636": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "200917": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "121921": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "153429": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "210415": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "449753": {
+      "total_trials": 63,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.523809523809524
+    },
+    "784565": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "146129": {
+      "total_trials": 64,
+      "rt_outlier_count": 18,
+      "rt_outlier_percentage": 28.125
+    },
+    "108525": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "578057": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "843151": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "193441": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "715950": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "506234": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "130922": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "189450": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "158035": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "136631": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "179952": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "175237": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "129129": {
+      "total_trials": 61,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "704238": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "707749": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "107018": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "148032": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "765864": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "103010": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "300618": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "154330": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "206323": {
+      "total_trials": 62,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.451612903225806
+    },
+    "753251": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "102614": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "134021": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "181636": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "162329": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "695768": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "200513": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "149539": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "153126": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "679568": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "833148": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "186040": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "105620": {
+      "total_trials": 62,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.451612903225806
+    },
+    "170631": {
+      "total_trials": 62,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.6129032258064515
+    },
+    "177746": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "303624": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "112112": {
+      "total_trials": 64,
+      "rt_outlier_count": 16,
+      "rt_outlier_percentage": 25.0
+    },
+    "990366": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "365343": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "123117": {
+      "total_trials": 64,
+      "rt_outlier_count": 6,
+      "rt_outlier_percentage": 9.375
+    },
+    "154431": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "720337": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "135124": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "112819": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "162026": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "377451": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "144933": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "555954": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "197348": {
+      "total_trials": 62,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.838709677419355
+    },
+    "644044": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "211215": {
+      "total_trials": 62,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.225806451612903
+    },
+    "221319": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "201111": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "209935": {
+      "total_trials": 64,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 10.9375
+    },
+    "618952": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "255740": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "199150": {
+      "total_trials": 62,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.225806451612903
+    },
+    "135629": {
+      "total_trials": 64,
+      "rt_outlier_count": 20,
+      "rt_outlier_percentage": 31.25
+    },
+    "213421": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "627549": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "567961": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "295146": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "581450": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "203923": {
+      "total_trials": 59,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 5.084745762711865
+    },
+    "381543": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "151930": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "105923": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "459453": {
+      "total_trials": 62,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.451612903225806
+    },
+    "155938": {
+      "total_trials": 61,
+      "rt_outlier_count": 10,
+      "rt_outlier_percentage": 16.39344262295082
+    },
+    "942658": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "336841": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "525541": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "872158": {
+      "total_trials": 32,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "160830": {
+      "total_trials": 62,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.225806451612903
+    },
+    "623844": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "217429": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "112314": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "559457": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "187547": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "732243": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "191336": {
+      "total_trials": 63,
+      "rt_outlier_count": 15,
+      "rt_outlier_percentage": 23.809523809523807
+    },
+    "210617": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "249947": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "481951": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "205119": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "152225": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "393550": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "117930": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "143426": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "971160": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "675661": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "115320": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "322224": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "171532": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "352132": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "970764": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "749361": {
+      "total_trials": 61,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.278688524590164
+    },
+    "993675": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "176845": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "299760": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "562345": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "436239": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "133019": {
+      "total_trials": 63,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.1746031746031744
+    },
+    "100307": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "709551": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "125424": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "119025": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "973770": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "168139": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "510326": {
+      "total_trials": 62,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.838709677419355
+    },
+    "177241": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "966975": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "157942": {
+      "total_trials": 64,
+      "rt_outlier_count": 11,
+      "rt_outlier_percentage": 17.1875
+    },
+    "124220": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "896778": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "729557": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "160931": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "144731": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "706040": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "992774": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "812746": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "453441": {
+      "total_trials": 64,
+      "rt_outlier_count": 4,
+      "rt_outlier_percentage": 6.25
+    },
+    "217126": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "308331": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "955465": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "552241": {
+      "total_trials": 61,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "209834": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "633847": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "233326": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "118124": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "334635": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "137936": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "548250": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "115825": {
+      "total_trials": 63,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.761904761904762
+    },
+    "132118": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "644246": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "164939": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "200614": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "108828": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "429040": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "175035": {
+      "total_trials": 60,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.3333333333333335
+    },
+    "134728": {
+      "total_trials": 64,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.6875
+    },
+    "189652": {
+      "total_trials": 63,
+      "rt_outlier_count": 15,
+      "rt_outlier_percentage": 23.809523809523807
+    },
+    "164636": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "102816": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "102513": {
+      "total_trials": 63,
+      "rt_outlier_count": 7,
+      "rt_outlier_percentage": 11.11111111111111
+    },
+    "125525": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "195950": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "100206": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "199655": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "441939": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "485757": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "165032": {
+      "total_trials": 62,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.838709677419355
+    },
+    "109123": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "172029": {
+      "total_trials": 64,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 3.125
+    },
+    "159138": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "183741": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "180230": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "210112": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "751348": {
+      "total_trials": 62,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "148335": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "957974": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "103212": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "983773": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "421226": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "852455": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "586460": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "134223": {
+      "total_trials": 64,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "553344": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "176441": {
+      "total_trials": 63,
+      "rt_outlier_count": 18,
+      "rt_outlier_percentage": 28.57142857142857
+    },
+    "286650": {
+      "total_trials": 61,
+      "rt_outlier_count": 3,
+      "rt_outlier_percentage": 4.918032786885246
+    },
+    "113215": {
+      "total_trials": 63,
+      "rt_outlier_count": 0,
+      "rt_outlier_percentage": 0.0
+    },
+    "136833": {
+      "total_trials": 63,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5873015873015872
+    },
+    "130720": {
+      "total_trials": 64,
+      "rt_outlier_count": 9,
+      "rt_outlier_percentage": 14.0625
+    },
+    "186141": {
+      "total_trials": 64,
+      "rt_outlier_count": 5,
+      "rt_outlier_percentage": 7.8125
+    },
+    "826353": {
+      "total_trials": 64,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 1.5625
+    },
+    "937160": {
+      "total_trials": 32,
+      "rt_outlier_count": 2,
+      "rt_outlier_percentage": 6.25
+    },
+    "191437": {
+      "total_trials": 31,
+      "rt_outlier_count": 1,
+      "rt_outlier_percentage": 3.225806451612903
+    }
+  }
+}
